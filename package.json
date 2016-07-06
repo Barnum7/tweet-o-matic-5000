@@ -1,8 +1,11 @@
 {
   "name": "Tweet-O-Matic-5000",
+  "description": "A lean MEAN twitter clone",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
     "mongoose": "^4.5.3"
   },
   "devDependencies": {
